@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nathanix321
 - 🌱 I’m currently learning electrical engineering, started my degree in 2021.
-- 💞️ I’m looking to collaborate on school projects.
 - 📫 How to reach me : letourneau.nathaniel@hotmail or letn1102@usherbrooke.ca
 
 <!---
